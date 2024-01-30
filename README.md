@@ -1,7 +1,5 @@
 - 👋 Hi, I’m R Raghav Kaushik
-
-- 
-- 👀 I’m interested in Competitive Coding, Artificial Intelligence and Machine Learning
+- 👀 I’m interested in Competitive Coding, Artificial Intelligence and Machine Learning and Web Development. 
  <!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -10,6 +8,7 @@
 - ⚡ Fun fact: ...
 --->
 
+- DeFy'24 Badge(Secured Runner up position with a cash prize of 15K)
 <p>
   <img src="https://api.vaunt.dev/v1/github/entities/raghavkaushik2004/achievements?format=svg&limit=3" width="350" />
 </p>
