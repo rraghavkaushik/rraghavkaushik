@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 --->
 
-- DeFy'24 Winner Badge
+- DeFy'24 Winner 
 <p>
   <img src="https://api.vaunt.dev/v1/github/entities/raghavkaushik2004/achievements?format=svg&limit=3" width="350" />
 </p>
