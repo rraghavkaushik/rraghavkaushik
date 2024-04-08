@@ -8,7 +8,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --->
-![](https://komarev.com/ghpvc/?username=raghavkaushik2004)
+
 ![](https://komarev.com/ghpvc/?username=raghavkaushik2004&color=brightgreen)
 - DeFy'24 Winner 
 <p>
