@@ -1,5 +1,5 @@
-- 👋 Hi, I’m R Raghav Kaushik
-- 👀 I’m interested in Competitive Coding, Artificial Intelligence and Machine Learning and Web Development. 
+<!--  - 👋 Hi, I’m R Raghav Kaushik
+- 👀 I’m interested in Competitive Coding, Artificial Intelligence and Machine Learning and Web Development. --->
 <!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
