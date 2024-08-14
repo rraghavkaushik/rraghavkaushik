@@ -41,6 +41,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm R Raghav Kaushik</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rraghavkaushik&label=Profile%20views&color=0e75b6&style=flat" alt="rraghavkaushik" /> </p>
 
+- 🪴 Computer Science Undergrad at **VITC**
 - 🌱 Exploring **Machine Learning**
 
 - 👯 I’m looking to collaborate on **interesting research projects in Machine Learning**
