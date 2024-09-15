@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👯 I’m looking to collaborate on **interesting research projects in Machine Learning**
 
-- 💭 Interested in **Computer Vision and Generative Networks**
+- 💭 Interested in **Computer Vision, NLP and Generative Networks**
 
 - ⚡ Fun fact **More Repositories than Stars in the Sky**
 
